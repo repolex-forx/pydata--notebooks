@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1.0",
+  "org": "pydata",
+  "repo": "notebooks",
+  "versions": [
+    {
+      "commit": "f2b40f7c7aa3f4b454c3f63073e7ea369a46c028",
+      "parsed_at": "2026-10-21T20:47:00.407003+00:00",
+      "filetree": "filetree/f2b40f7c7aa3f4b454c3f63073e7ea369a46c028.nq.gz",
+      "blobs": [
+        "blob/b4771e4f6daffdc196b4654d803863505f13bf9c.nq.gz",
+        "blob/5f8a8acaa2fafa89f4dba8b572bbde118eebe204.nq.gz",
+        "blob/b3f7bb86354947a6e2e078312646ab091f98ef07.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
