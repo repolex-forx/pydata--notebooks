@@ -1,0 +1,11 @@
+{
+  "org": "pydata",
+  "repo": "notebooks",
+  "versions": [
+    {
+      "commit": "f2b40f7c7aa3f4b454c3f63073e7ea369a46c028",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:49:10.896347+00:00"
+    }
+  ]
+}
